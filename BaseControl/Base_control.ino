@@ -1,5 +1,5 @@
 /*
- * Base_controll
+ * Base_control
  * V0.94
  * Platform:- NodeMCU ESP8266
  * Google Assistant + Amazon Alexa Control
